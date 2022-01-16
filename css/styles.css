@@ -124,6 +124,13 @@ body {
   
  
 }
+.header-nav:focus,
+.header-nav:hover,
+.header-nav:active
+{
+  color: var(--liting-color);
+}
+
 
 .header-contact-container{
   display: flex;
